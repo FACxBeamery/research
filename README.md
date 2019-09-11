@@ -8,6 +8,7 @@ Please add a link to any research that you complete as we go by editing this doc
 ## Research
 
 ### Week 1 - Fundamentals 1
+https://docs.google.com/document/d/1wQ07MooADyVXamaeGwLo3gkXllt3nSVn62gSE6pDORY/edit#
 
 
 ### Week 2 - Fundamentals 2
