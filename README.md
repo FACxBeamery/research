@@ -10,12 +10,11 @@ Please add a link to any research that you complete as we go by editing this doc
 ### Week 1 - Fundamentals 1
 https://docs.google.com/document/d/1wQ07MooADyVXamaeGwLo3gkXllt3nSVn62gSE6pDORY/edit#
 
-
 ### Week 2 - Fundamentals 2
-
+https://hackmd.io/OVRlOZcXR7CiW988l_mi6Q
 
 ### Week 3 - Node.js 1
-
+https://hackmd.io/@marthaklambert/Hkfp6KvDB
 
 ### Week 4 - Node.js 2
-
+https://hackmd.io/@marthaklambert/SyMMDjguB
